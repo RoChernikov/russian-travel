@@ -1,0 +1,5 @@
+.lead {
+  background-color:peru;
+  min-height: 52px;
+  transition: padding .2s linear;
+}

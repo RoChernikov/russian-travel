@@ -1,0 +1,5 @@
+.footer {
+  background-color: palevioletred;
+  min-height: 50px;
+  transition: padding .2s linear;
+}
