@@ -1,5 +1,5 @@
 .header {
-  background-color: blueviolet;
-  min-height: 52px;
+  display: flex;
+  justify-content: space-between;
   transition: padding .2s linear;
 }
